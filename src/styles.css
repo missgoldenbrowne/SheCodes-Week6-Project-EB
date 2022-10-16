@@ -1,0 +1,42 @@
+h1 {
+  text-align: left;
+  font-family: "Poiret One", cursive;
+}
+
+h2 {
+  text-align: left;
+  font-style: bold;
+  font-family: "Poiret One", cursive;
+}
+
+body {
+  background-color: #fff;
+  font-family: "Poiret One", cursive;
+  font-size: 24px;
+}
+
+h3 {
+  margin-top: 80px;
+  text-align: left;
+  font-family: "Poiret One", cursive;
+}
+
+.mainContent {
+  display: block;
+  background-color: blanchedalmond;
+  border-radius: 12px;
+  box-shadow: -5px -5px 9px rgba(255, 255, 255, 0.45),
+    5px 5px 9px rgba(94, 104, 121, 0.3);
+  margin: 400px;
+  padding: 30px;
+}
+
+.city-form {
+  padding: 25px 50px 50px 25px;
+}
+
+.tempFont {
+  font-size: 40px;
+  text-align: left;
+  font-weight: bolder;
+}
